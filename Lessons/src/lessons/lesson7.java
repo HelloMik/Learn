@@ -4,7 +4,6 @@ import java.io.IOException;
 
 public class lesson7 {
 
-	
 	public static void main(String[] args) throws IOException {
 
 		byte[] arr = new byte[9];
