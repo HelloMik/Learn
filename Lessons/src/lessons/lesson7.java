@@ -6,7 +6,7 @@ public class lesson7 {
 
 	public static void main(String[] args) throws IOException {
 
-		byte[] arr = new byte[9];
+		byte[] arr = new byte[10];
 		int a, b;
 		
 		System.out.print("Введите число а: ");
